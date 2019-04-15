@@ -1,6 +1,10 @@
 gprof2dot==2017.9.19
 numpy==1.16.2
+pandas==0.24.2
 py-spy==0.1.10
 pyinstrument==3.0.2
 pyinstrument-cext==0.2.0
+python-dateutil==2.8.0
+pytz==2019.1
 scipy==1.2.1
+six==1.12.0
