@@ -1,0 +1,6 @@
+gprof2dot==2017.9.19
+numpy==1.16.2
+py-spy==0.1.10
+pyinstrument==3.0.2
+pyinstrument-cext==0.2.0
+scipy==1.2.1
